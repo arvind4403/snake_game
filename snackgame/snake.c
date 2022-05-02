@@ -125,4 +125,5 @@ void main()
         input();
         logic();
     }
+    printf("arvind");
 }
